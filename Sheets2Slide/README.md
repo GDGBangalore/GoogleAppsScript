@@ -1,3 +1,5 @@
+[Screenshot(screenshot.png)](screenshot.png)
+----
 ## Open a sheet
 #
 ### Fill the row in this structure 
@@ -10,6 +12,3 @@ If needed you can generate a chart in the same sheet (can be data from other she
 
 Open SCript editor and paste the code from Code.gs file and hit Run.
 
-----
-
-[![Screenshot(screenshot.png)](screenshot.png)
