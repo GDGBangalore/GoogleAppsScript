@@ -1,9 +1,9 @@
 [![Screenshot](screenshot.png)](screenshot.png)
 ----
 ## Open a sheet
-#
+
 ### Fill the row in this structure 
-#
+
 | COLUMN 1 | COUMN 2 | COLUMN 3 | COUMN 4 |
 | ------ | ------ | ------ | ------  |
 | FYI : slide ref | Main title | Main image/logo {URL} | A Paragraph |
