@@ -1,4 +1,4 @@
-[Screenshot(screenshot.png)](screenshot.png)
+[!Screenshot(screenshot.png)](screenshot.png)
 ----
 ## Open a sheet
 #
