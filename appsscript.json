@@ -1,0 +1,11 @@
+{
+  "timeZone": "Asia/Calcutta",
+  "dependencies": {
+    "enabledAdvancedServices": [{
+      "userSymbol": "Prediction",
+      "serviceId": "prediction",
+      "version": "v1.6"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
