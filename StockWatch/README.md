@@ -23,4 +23,4 @@ Please replace the following:
 
 If any issues found please be free to create an issue 
 
-Follow me on [Github](github.com/mspawanranjith)
+Follow me on [Github](https://github.com/mspawanranjith)
